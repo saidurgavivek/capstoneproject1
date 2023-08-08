@@ -1,0 +1,80 @@
+.abc{
+	height: 800px;
+	width: 1000px;
+	background-image: url('images/img1.jpg');
+	background-size: cover ;
+	background-repeat: no-repeat;
+}
+h1{
+	color: white;
+	padding-top: 200px;
+	font-size: 100px;
+	font-family: cursive;
+}
+.efg{
+	color: white;
+	padding-left: 400px;
+	font-size: 20px;
+}
+.a{
+	height: 800px;
+	width: 1000px;
+	background-image: url('images/img2.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#ab{
+	height: 800px;
+	width: 500px;
+	float: left;
+}
+#cd{
+	height: 800px;
+	width: 500px;
+	float: left;
+}
+p{
+	font-size: 20px;
+    text-align: center;
+	color: white;
+	padding-top: 30px;
+}
+button{
+	background-color: white;
+	color: black;
+}
+.e{
+	color: white;
+	padding-top: 300px;
+	padding-left: 50px;
+	font-size: 50px;
+}
+.b{
+  height: 800px;
+	width: 1000px;
+	background-image: url('images/img3.avif');
+	background-size: cover;
+	background-repeat: no-repeat;  
+}
+#ef{
+	height: 600px;
+	width:300px ;
+	background-image: url('images/img4.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 100px;
+	margin-right: 10px;
+}
+#gh{
+	height: 600px;
+	width:300px ;
+	background-image: url('images/img5.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
